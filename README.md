@@ -1,2 +1,3 @@
 # 2024_04_14_2
-2.0
+3 fajta prettier hozáadva
+
